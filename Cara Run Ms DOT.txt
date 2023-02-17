@@ -1,0 +1,3 @@
+1. Buka XAMPP jalankan Apache dan MySQL
+2. Buka folder website jalankan Backend dengan buka MsDOT Backend -> shift + klik kanan -> pilih open powershell/open terminal -> ketik node index.js dan enter
+3. Buka folder website jalankan Frontend dengan buka MsDOT Frontend -> shift + klik kanan -> pilih open powershell/open terminal -> ketik npm run dev dan enter
